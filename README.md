@@ -1,5 +1,6 @@
 # journal-article
 2k 팩토리얼 설계를 통한 습도가 미세먼지 센서에 미치는 영향 분석
+
 (Analysis of influence of humidity on fine dust sensor through 2k factorial design)
 
 <img width="501" alt="캡처" src="https://user-images.githubusercontent.com/57060127/76674434-ec597c80-65f2-11ea-84b1-bf53ae61ad3d.PNG">
